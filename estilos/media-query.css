@@ -3,6 +3,11 @@
         background-image: url(../imagens/imagem1.jpg);
         min-height: 100%;
     }
+    p {
+        margin: auto;
+        max-width: 900px;
+        text-align: center;
+    }
 }
 
 @media screen and (min-width: 1024px) {

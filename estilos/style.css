@@ -101,8 +101,8 @@ h2 {
 }
 
 p {
-    padding: 30px 80px 70px;
+    padding: 30px 40px;
     line-height: 2em;
     color: rgb(97, 96, 96);
+    text-align: justify;
 }
-
